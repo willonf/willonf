@@ -21,36 +21,10 @@
 #### Software Engineering student at [Universidade Federal do Amazonas](https://www.instagram.com/ufam__/)
 ---
 ## 💻 Work 💻
-#### I'm actually working at [FPF Tech](fpftech.com) as Software Development Intern
+#### I'm actually working at [FPF Tech](fpftech.com) as Software Development Jr.
 ---
 ## 🚀 Technologies, Languages, etc 🚀
-#### Some technologies that I'm always playing on:
-
-🐍 Python
-
-🔰 Django
-
-🌐 HTML, CSS, Javascript
-
-☕ Java
-
-🐬 MySQL
-
-🍦 Gulp
-
----
-## 📓 I'm currently studying 📓
-🛡️ Angular 
-
-✔️ Selenium
-
-🐘 PostgreSQL 
-
-1️⃣ JUnit
-
-📏 JMeter
-
-🐋 Docker
+#### Python, Django, Angular, React, Typescript, HTML, CSS, Node.JS, PostgreSQL, Docker, AWS, Airflow
 
 
 </div>
